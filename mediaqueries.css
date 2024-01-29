@@ -27,16 +27,18 @@
   .section-container {
     display: block;
   }
-  .arrow,
-  .arrow-icon-purple {
-    display: none;
-  }
+
   section,
   .section-container {
     height: fit-content;
   }
   section {
     margin: 0 5%;
+  }
+
+  .arrow,
+  .icon-arrow-purple {
+    display: none;
   }
 
   .section__pic-container {
@@ -54,6 +56,11 @@
   #contact,
   footer {
     height: 40vh;
+  }
+
+  .arrow,
+  .icon-arrow-purple {
+    display: none;
   }
 
   #profile {
