@@ -50,6 +50,28 @@
   .about.containers {
     margin-top: 0;
   }
+
+  #experience {
+    height: auto;
+    overflow: hidden;
+  }
+  .experience-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20%;
+  }
+
+  .details-containers-orange h2 {
+    text-align: center;
+  }
+
+  .article-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
 }
 
 @media screen and (max-width: 600px) {
