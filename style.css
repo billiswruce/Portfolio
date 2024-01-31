@@ -281,6 +281,11 @@ section {
 /*
 /*
 /*ABOUT SECTION */
+#about a {
+  text-decoration: none;
+  color: #b86da9;
+}
+
 #about {
   position: relative;
   margin-top: 16rem;
