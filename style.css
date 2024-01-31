@@ -381,6 +381,12 @@ section {
   color: #f4ae58;
 }
 
+#experience h2 {
+  margin-bottom: 45px;
+
+  text-align: center;
+}
+
 #experience,
 #contact {
   position: relative;
@@ -394,24 +400,22 @@ section {
   display: flex;
   text-align: center;
   flex-wrap: wrap;
-  gap: 2.5rem;
+  gap: 2rem;
   justify-content: space-between;
 }
 
 .details-containers-orange {
-  padding: 4rem;
+  padding: 5rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
   border: #f9debd 0.1rem solid;
-  text-align: center;
 }
 
 article {
   display: flex;
   width: 14rem;
-  justify-content: space-between;
-  gap: 4rem;
+  gap: 1rem;
 }
 
 article .icon-checkmark,
