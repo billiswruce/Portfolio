@@ -388,7 +388,6 @@ section {
 
 #experience h2 {
   margin-bottom: 45px;
-
   text-align: center;
 }
 
@@ -411,6 +410,7 @@ section {
 
 .details-containers-orange {
   padding: 5rem;
+  padding-top: 3rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
